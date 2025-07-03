@@ -1,0 +1,17 @@
+{
+  "name": "project_vote-assignment",
+  "version": "1.0.0",
+  "description": "Voting contract and dApp for Kaia Kairos Testnet",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network kairos"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1",
+    "hardhat": "^2.21.0"
+  },
+  "license": "MIT"
+} 
