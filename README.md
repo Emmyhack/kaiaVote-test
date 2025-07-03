@@ -72,7 +72,7 @@ npm start
 ---
 
 ## Environment Variables
-- `PRIVATE_KEY`: Your deployer wallet private key (never share this publicly!)
+- `PRIVATE_KEY`: deployer wallet private key (never share this publicly!)
 - `KAIROS_RPC_URL`: The Kaia Kairos Testnet RPC URL (e.g., https://rpc.ankr.com/kaia)
 
 ---
